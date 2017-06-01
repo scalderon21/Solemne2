@@ -1,6 +1,6 @@
 <?php
 include 'Librerias.php';
-include 'Constante.php';
+include '/lib/Conexion.php';
 ?>
 
 <!DOCTYPE html>
