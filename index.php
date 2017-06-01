@@ -1,3 +1,8 @@
+<?php
+include 'Librerias.php';
+include 'Constante.php';
+?>
+
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
@@ -11,7 +16,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        include 'Inicio.php';
         ?>
     </body>
 </html>
